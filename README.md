@@ -1,7 +1,7 @@
 # FarmCentral - Enterprise Resource Planning (ERP) Model
 
-**Author:** [Your Name]
-**Date:** [Date of Completion]
+**Author:** Siyabulela Mathe
+**Date:** 01/01/2021
 **Technology:** ASP.NET Web Forms
 **Scope:** Farm Management and Operations
 
